@@ -1,4 +1,4 @@
-print("this is new file python task 3 and changed ----")
+print("this is new file python task 3")
 
 print("Add more code")
 
